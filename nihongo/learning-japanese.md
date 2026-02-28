@@ -8,13 +8,13 @@ So what do you do if you want to start learning Japanese _right now_? What are t
 
 ## Hiragana
 
-**Current State**: I have achieved perfect recall of the vowels, and the k, s, and t consonant+vowel combinations. I am adding perfect recall of new consonant+vowel combinations at a rate of 1-2 consonants per day.
+**Current State**: I have achieved perfect recall of the vowels, and the k, s, t, n and h syllable groups. I'm adding perfect recall of new syllable groups at a rate of 1-2 groups per day.
 
-Learn hiragana with [tofugu.com](https://www.tofugu.com/japanese/learn-hiragana/). The mnemonics may sometimes seem silly, or downright strange, but _they work_.
+Learn hiragana with [tofugu.com](https://www.tofugu.com/japanese/learn-hiragana/). The mnemonics may sometimes seem silly, or downright strange, but _they work_. Some work better than others, but they work.
 
-**Aside**: Hiragana (and katakana) are usually displayed in a grid, where the first column is the vowels,and the remaining columns are the various consonant + vowel combinations (this accounts only for the 46 base syllables). Hence learning "a column at a time".
+**Aside**: Hiragana (and katakana) are usually displayed in a grid, where the first column is the vowels (a-i-u-e-o),and the remaining columns are the various consonant groups (e.g., ka-ki-ku-ke-ko). Hence learning "a column" or "a group" at a time. Note this accounts only for the 46 base syllables. There's 25 accented syllables and another 41 combination syllables. But they build on the base syllables so learning them is not as challenging as it might sound.
 
-Using tofugu.com's mnemonics, you should be able to achieve perfect recall at a rate of at lest 1-2 columns per day. At the end of this exercise, you will be able to recognize all 107 hiragana, and you will know how to pronounce all 107 syllables. Given the sounds are the same between hiragana and katakana, you now just need to learn to recognize the 107 katakana equivalents to hiragana. You already know how to pronounce them.
+Using tofugu.com's mnemonics, like me you should be able to achieve perfect recall at a rate of at lest 1-2 groups per day. At the end of this exercise, you will be able to recognize all 112 hiragana, and you will know how to pronounce all 107 syllables. Given the syllable sounds are the same between hiragana and katakana, you now just need to learn to recognize the 112 katakana equivalents to hiragana. You already know how to pronounce them.
 
 ## Tae Kim's Guide
 
@@ -26,7 +26,7 @@ I've only just started looking at this so I don't have much to say about it.
 
 ## Genki I
 
-I still have my older copy of Genki I that I used for my previously mentioned course in conversational Japanese. I will begin reviewing it.
+I still have my copy of Genki I that I used for my previously mentioned course in conversational Japanese. I will begin reviewing it.
 
 ## Anki
 
