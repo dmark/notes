@@ -18,7 +18,7 @@ Learn hiragana with [tofugu.com](https://www.tofugu.com/japanese/learn-hiragana/
 
 **Aside**: Hiragana (and katakana) are usually displayed in a grid, where the first column is the vowels (a-i-u-e-o),and the remaining columns are the various consonant groups (e.g., ka-ki-ku-ke-ko). Hence learning "a column" or "a group" at a time. Note this accounts only for the 46 base syllables. There's 25 accented syllables and another 41 combination syllables. But they build on the base syllables so learning them is not as challenging as it might sound.
 
-Using tofugu.com's mnemonics, like me you should be able to achieve perfect recall at a rate of at lest 1-2 groups per day. At the end of this exercise, you will be able to recognize all 112 hiragana, and you will know how to pronounce all 107 syllables. Given the syllable sounds are the same between hiragana and katakana, you now just need to learn to recognize the 112 katakana equivalents to hiragana. You already know how to pronounce them.
+Using tofugu.com's mnemonics, like me you should be able to achieve perfect recall at a rate of at lest 1-2 groups per day. At the end of this exercise, you will be able to recognize all 112 hiragana, and you will know how to pronounce all 112 syllables. Given the syllable sounds are the same between hiragana and katakana, you now just need to learn to recognize the 112 katakana equivalents to hiragana. You already know how to pronounce them.
 
 ## Tae Kim's Guide
 
