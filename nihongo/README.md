@@ -20,6 +20,8 @@ Learn hiragana with [tofugu.com](https://www.tofugu.com/japanese/learn-hiragana/
 
 Using tofugu.com's mnemonics, like me you should be able to achieve perfect recall at a rate of at lest 1-2 groups per day. At the end of this exercise, you will be able to recognize all 112 hiragana, and you will know how to pronounce all 112 syllables. Given the syllable sounds are the same between hiragana and katakana, you now just need to learn to recognize the 112 katakana equivalents to hiragana. You already know how to pronounce them.
 
+A note about device language: You will need to know katakana and kanji if you want to switch your devices, or just individual applications, to Japanese. I tested switching a couple individual applications (cotEditor, Apple Calendar) over to Japanese, and the menus are predominantly katakana and kanji, not hiragana. Interestingly, trying to switch Slack and VS Code to Japanese via macOS System Systems had no effect, I suspect because they have their own internal settings.
+
 ## Tae Kim's Guide
 
 A popular resource that teaches you how Japanese works:
