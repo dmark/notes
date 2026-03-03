@@ -12,6 +12,8 @@ My goal is to create the conditions under which I can take advantage of opportun
 
 ## Hiragana
 
+**2026-03-02**: I have achieved perfect recall of all 46 base hiragana. Some review tomorrow and then on to the dakuten and han-dakuten.
+
 **Current State**: I have achieved perfect recall of the vowels, and the k, s, t, n and h syllable groups. I'm adding perfect recall of new syllable groups at a rate of 1-2 groups per day.
 
 Learn hiragana with [tofugu.com](https://www.tofugu.com/japanese/learn-hiragana/). The mnemonics may sometimes seem silly, or downright strange, but _they work_. Some work better than others, but they work.
