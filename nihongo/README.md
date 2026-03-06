@@ -1,5 +1,7 @@
 # Learning Japanese
 
+**Note**: I am experimenting using [Quartz](https://quartz.jzhao.xyz) to publish these notes to Github Pages. The repo is [here](https://github.com/dmark/notebook), and the posted pages are [here](https://markdrummond.ca/notebook/).
+
 I have long wanted to live and work in Japan. I have been to Japan three times, totally about 30 days, but my last trip to Japan was way back in 2012. For those past trips I learned "travelers Japanese" using various resources, and I took a two-term course in conversational Japanese.
 
 So what do you do if you want to start learning Japanese _right now_? What are the immediate things you should start doing? The answer to that question will depend on you. What is your motivation and what background do you have?
